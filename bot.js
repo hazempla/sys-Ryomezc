@@ -35,7 +35,7 @@ var ti={}
 
 client.on('ready', function(){
     var ms = 60000 ;
-    var setGame = ['ahelp','Type ahelp','bot by hazem play ];
+    var setGame = ['ahelp','Type ahelp','bot by hazem play' ];
     var i = -1;
     var j = 0;
     setInterval(function (){
